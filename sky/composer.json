@@ -1,0 +1,23 @@
+{
+    "name": "bosingwa/sky",
+    "description": "loja online",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joaquim amandio",
+            "email": "joaquimamandio95@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "mpdf/mpdf": "^8.0"
+       
+    }
+    
+   
+}

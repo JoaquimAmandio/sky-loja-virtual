@@ -1,0 +1,15 @@
+categorias:
+1- cortes - francês, escovinha, esconvinha_cheia, careca, galo, barba
+2- cosmeticos- creme, perfume, desodorizante, 
+3- Relogios- cazio, hublot, omega
+4- sapatos_homens- sapato, nike, jordan,chinelas
+5- sapatos_mulheres- sapato, nike, jordan, chinelas
+
+//status
+          /*
+          PENDENTE- encomenda acabada de registar
+          PAGO - encomenda foi paga
+          EM TRATAMENTO - está a ser processada pela loja
+          ENVIADA - foi enviada pelos serviços de transporte da loja
+          ENTREGUE - completamente finalizada
+          */
